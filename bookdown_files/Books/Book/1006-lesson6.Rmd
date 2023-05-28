@@ -191,3 +191,5 @@ aes(Aesthetics)是一个映射关系，它决定了如何将数据映射到图�
   DataExplorer::plot_correlation(na.omit(df.pg.raw[, 2:30]))
   ```
 （5）我们也可以绘制一个表之间的相关矩阵，这样就更有意义了。这个函数na.omit对我们来说非常有意义，因为它可以去除缺乏值的行，否则会报错。
+
+昂
